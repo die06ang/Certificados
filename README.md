@@ -8,4 +8,4 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de PostgreSQL aplicado a cincia de datos - Platzi](SQL_PLSQL/diploma-postgresql-datos.pdf)
 
 ## PHP
-- [Curso de OOP y Acceso a Datos con PHP - eduonix](PHP/certificate-learn-object-oriented-php-by-building-a-complete-website.pdf)
+- [Curso de OOP y Acceso a Datos con PHP - Eduonix](PHP/certificate-learn-object-oriented-php-by-building-a-complete-website.pdf)
