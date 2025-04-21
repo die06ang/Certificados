@@ -7,5 +7,5 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de PostgreSQL - Platzi](SQL_PLSQL/diploma-postgresql.pdf)
 - [Curso de PostgreSQL aplicado a cincia de datos - Platzi](SQL_PLSQL/diploma-postgresql-datos.pdf)
 
-## SQL_PLSQL
+## PHP
 - [Curso de OOP y Acceso a Datos con PHP - eduonix](PHP/certificate-learn-object-oriented-php-by-building-a-complete-website.pdf)
