@@ -8,4 +8,7 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de PostgreSQL aplicado a cincia de datos - Platzi](SQL_PLSQL/diploma-postgresql-datos.pdf)
 
 ## PHP
+- [Curso Básico de PHP: Instalación, Fundamentos y Operadores - Platzi](PHP/diploma-php.pdf)
+- [Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control - Platzi](PHP/diploma-php-arreglos-funciones.pdf)
+- [Curso Intermedio de PHP: Entornos Virtuales y Profundización - Platzi](PHP/diploma-php-entornos-funciones.pdf)
 - [Curso de OOP y Acceso a Datos con PHP - Eduonix](PHP/certificate-learn-object-oriented-php-by-building-a-complete-website.pdf)
