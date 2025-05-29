@@ -1,7 +1,7 @@
 # Certificados
 Repositorio personal donde almaceno y organizo mis certificados digitales obtenidos en cursos, talleres y programas de formación.
 
-## SQL_PLSQL
+## SQL y PLSQL
 - [Curso de BBDD con SQL - Platzi](SQL_PLSQL/diploma-dbsql.pdf)
 - [Curso práctico de SQL - Platzi](SQL_PLSQL/diploma-practico-sql.pdf)
 - [Curso de PostgreSQL - Platzi](SQL_PLSQL/diploma-postgresql.pdf)
@@ -14,8 +14,8 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de OOP y Acceso a Datos con PHP - Eduonix](PHP/certificate-learn-object-oriented-php-by-building-a-complete-website.pdf)
 
 ## C# y .NET
-- [Curso Básico de PHP: Instalación, Fundamentos y Operadores - Platzi](C#_.NET/diploma-csharp.pdf)
-- [Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control - Platzi](C#_.NET/diploma-fundamentos-net.pdf)
-- [Curso Intermedio de PHP: Entornos Virtuales y Profundización - Platzi](C#_.NET/diploma-c-sharp-poo.pdf)
-- [Curso de OOP y Acceso a Datos con PHP - Eduonix](C#_.NET/diploma-linq.pdf)
-- [Curso de OOP y Acceso a Datos con PHP - Eduonix](C#_.NET/diploma-solid-csharp-net.pdf)
+- [Curso Básico de PHP: Instalación, Fundamentos y Operadores - Platzi](CSharp_.NET/diploma-csharp.pdf)
+- [Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control - Platzi](CSharp_.NET/diploma-fundamentos-net.pdf)
+- [Curso Intermedio de PHP: Entornos Virtuales y Profundización - Platzi](CSharp_.NET/diploma-c-sharp-poo.pdf)
+- [Curso de OOP y Acceso a Datos con PHP - Eduonix](CSharp_.NET/diploma-linq.pdf)
+- [Curso de OOP y Acceso a Datos con PHP - Eduonix](CSharp_.NET/diploma-solid-csharp-net.pdf)
