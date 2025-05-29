@@ -14,8 +14,8 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de OOP y Acceso a Datos con PHP - Eduonix](PHP/certificate-learn-object-oriented-php-by-building-a-complete-website.pdf)
 
 ## C# y .NET
-- [Curso Básico de PHP: Instalación, Fundamentos y Operadores - Platzi](CSharp_.NET/diploma-csharp.pdf)
-- [Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control - Platzi](CSharp_.NET/diploma-fundamentos-net.pdf)
-- [Curso Intermedio de PHP: Entornos Virtuales y Profundización - Platzi](CSharp_.NET/diploma-c-sharp-poo.pdf)
-- [Curso de OOP y Acceso a Datos con PHP - Eduonix](CSharp_.NET/diploma-linq.pdf)
-- [Curso de OOP y Acceso a Datos con PHP - Eduonix](CSharp_.NET/diploma-solid-csharp-net.pdf)
+- [Curso Básico de C#: Fundamentos, Variables y Operadores - Platzi](CSharp_.NET/diploma-csharp.pdf)
+- [Curso de Fundamentos de .NET - Platzi](CSharp_.NET/diploma-fundamentos-net.pdf)
+- [Curso de Programación Orientada a Objetos con C# - Platzi](CSharp_.NET/diploma-c-sharp-poo.pdf)
+- [Curso de C#: Manejo de Datos con LINQ - Platzi](CSharp_.NET/diploma-linq.pdf)
+- [Curso de Principios SOLID en C# y .NET - Platzi](CSharp_.NET/diploma-solid-csharp-net.pdf)
