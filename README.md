@@ -12,3 +12,10 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control - Platzi](PHP/diploma-php-arreglos-funciones.pdf)
 - [Curso Intermedio de PHP: Entornos Virtuales y Profundización - Platzi](PHP/diploma-php-entornos-funciones.pdf)
 - [Curso de OOP y Acceso a Datos con PHP - Eduonix](PHP/certificate-learn-object-oriented-php-by-building-a-complete-website.pdf)
+
+## C# y .NET
+- [Curso Básico de PHP: Instalación, Fundamentos y Operadores - Platzi](C#y.NET/diploma-csharp.pdf)
+- [Curso Básico de PHP: Arreglos, Funciones y Estructuras de Control - Platzi](C#y.NET/diploma-fundamentos-net.pdf)
+- [Curso Intermedio de PHP: Entornos Virtuales y Profundización - Platzi](C#y.NET/diploma-c-sharp-poo.pdf)
+- [Curso de OOP y Acceso a Datos con PHP - Eduonix](C#y.NET/diploma-linq.pdf)
+- [Curso de OOP y Acceso a Datos con PHP - Eduonix](C#y.NET/diploma-solid-csharp-net.pdf)
