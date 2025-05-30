@@ -20,5 +20,5 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de C#: Manejo de Datos con LINQ - Platzi](CSharp_.NET/diploma-linq.pdf)
 - [Curso de Principios SOLID en C# y .NET - Platzi](CSharp_.NET/diploma-solid-csharp-net.pdf)
 - [Curso de Buenas Prácticas y Código Limpio en C# - Platzi](CSharp_.NET/diploma-clean-code-csharp.pdf)
-- [Curso de Fundamento d Entity Framework - Platzi](diploma-entity-framework.pdf)
-- [Curso de APIs con .NET - Platzi](diploma-apis-net.pdf)
+- [Curso de Fundamento de Entity Framework - Platzi](CSharp_.NET/diploma-entity-framework.pdf)
+- [Curso de APIs con .NET - Platzi](CSharp_.NET/diploma-apis-net.pdf)
