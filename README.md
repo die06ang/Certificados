@@ -22,3 +22,4 @@ Repositorio personal donde almaceno y organizo mis certificados digitales obteni
 - [Curso de Buenas Prácticas y Código Limpio en C# - Platzi](CSharp_.NET/diploma-clean-code-csharp.pdf)
 - [Curso de Fundamento de Entity Framework - Platzi](CSharp_.NET/diploma-entity-framework.pdf)
 - [Curso de APIs con .NET - Platzi](CSharp_.NET/diploma-apis-net.pdf)
+- [Curso de Aplicaciones Web con Blazor WebAssembly y .NET - Platzi](CSharp_.NET/diploma-blazor-webassembly.pdf)
