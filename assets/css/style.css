@@ -1,0 +1,44 @@
+@media (max-width: 768px) {
+    body {
+        background-image: url('../img/backgroundMobile.png');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    main {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 769px) {
+    body {
+        background-image: url('../img/backgroundPC.png');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+}
+
+h2 {
+    color: white;
+}
+
+.categoria {
+    margin-bottom: 2rem;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin: 0.5rem 0;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
